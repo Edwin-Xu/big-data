@@ -1,0 +1,4 @@
+./hadoop/target
+./hive/target
+./scala/target
+./spark/target
