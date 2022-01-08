@@ -1,8 +1,3 @@
 ./.idea
 ./*.imi
-./*/target
-
-./hadoop/target
-./hive/target
-./scala/target
-./spark/target
+/target
